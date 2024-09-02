@@ -22,8 +22,7 @@ https://ayinfra.notion.site/Shortcuts-2ff18b568c4645b9a027a91d3c9e6d68
  ![Homebrew](https://a11ybadges.com/badge?logo=homebrew)
 
 ### Can Useable IDE, Text Editor and Business Messenger
-![Vim](https://a11ybadges.com/badge?logo=vim) ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode) ![Xcode](https://a11ybadges.com/badge?logo=xcode) ![Notion](https://a11ybadges.com/badge?logo=notion) ![Slack](https://a11ybadges.com/badge?logo=slack)
-![Skype for Business](https://a11ybadges.com/badge?logo=skypeforbusiness) 
+![Vim](https://a11ybadges.com/badge?logo=vim) ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode) ![Xcode](https://a11ybadges.com/badge?logo=xcode) ![Notion](https://a11ybadges.com/badge?logo=notion) ![Slack](https://a11ybadges.com/badge?logo=slack) ![Skype for Business](https://a11ybadges.com/badge?logo=skypeforbusiness) 
 
 ### Public Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
