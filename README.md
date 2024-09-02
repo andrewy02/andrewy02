@@ -12,7 +12,7 @@
 ![Apache](https://a11ybadges.com/badge?logo=apache) ![Apache Tomcat](https://a11ybadges.com/badge?logo=apachetomcat) ![NGINX](https://a11ybadges.com/badge?logo=nginx)
 
 ### Security 
-![Okta](https://a11ybadges.com/badge?logo=okta) ![OPNSense](https://a11ybadges.com/badge?logo=opnsense) ![pfSense](https://a11ybadges.com/badge?logo=pfsense) ![WireGuard](https://a11ybadges.com/badge?logo=wireguard) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
+![Okta](https://a11ybadges.com/badge?logo=okta) ![OPNSense](https://a11ybadges.com/badge?logo=opnsense) ![pfSense](https://a11ybadges.com/badge?logo=pfsense) ![WireGuard](https://a11ybadges.com/badge?logo=wireguard) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare)
 
 
 ### Development
