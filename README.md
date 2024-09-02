@@ -1,5 +1,5 @@
-# Infra, Security Engineer 👋
-
+# 안녕하세요. Infra, Security Engineer 직군을 꿈꾸고 있는 윤상원입니다.
+현재 HomeLAB에서 이상한 일들을 굉장히 많이 하고 있는 사람입니다. ㅎㅎ
 ## 기술 스택 
 
 ### Operating System
