@@ -10,7 +10,6 @@ https://ayinfra.notion.site/Shortcuts-2ff18b568c4645b9a027a91d3c9e6d68
 ### Virtualization
 ![Proxmox](https://a11ybadges.com/badge?logo=proxmox) ![VMware](https://a11ybadges.com/badge?logo=vmware) ![Citrix](https://a11ybadges.com/badge?logo=citrix) ![Linux Containers](https://a11ybadges.com/badge?logo=linuxcontainers)
 
-
 ### Web Server 
 ![Apache](https://a11ybadges.com/badge?logo=apache) ![Apache Tomcat](https://a11ybadges.com/badge?logo=apachetomcat) ![NGINX](https://a11ybadges.com/badge?logo=nginx)
 
@@ -22,8 +21,9 @@ https://ayinfra.notion.site/Shortcuts-2ff18b568c4645b9a027a91d3c9e6d68
 ![Python](https://a11ybadges.com/badge?logo=python) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://a11ybadges.com/badge?logo=windowsterminal)
  ![Homebrew](https://a11ybadges.com/badge?logo=homebrew)
 
-### Useable Editor 
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+### Can Useable IDE, Text Editor and Business Messenger
+![Vim](https://a11ybadges.com/badge?logo=vim) ![Visual Studio Code](https://a11ybadges.com/badge?logo=visualstudiocode) ![Xcode](https://a11ybadges.com/badge?logo=xcode) ![Notion](https://a11ybadges.com/badge?logo=notion) ![Slack](https://a11ybadges.com/badge?logo=slack)
+![Skype for Business](https://a11ybadges.com/badge?logo=skypeforbusiness) 
 
 ### Public Cloud
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
