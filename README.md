@@ -3,7 +3,7 @@
 ## 기술 스택 
 
 ### Operating System
-![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu) ![Debian](https://a11ybadges.com/badge?logo=debian) ![Red Hat](https://a11ybadges.com/badge?logo=redhat) ![Windows](https://a11ybadges.com/badge?logo=windows)
+![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu) ![Debian](https://a11ybadges.com/badge?logo=debian) ![Red Hat](https://a11ybadges.com/badge?logo=redhat) ![Windows](https://a11ybadges.com/badge?logo=windows) ![macOS](https://a11ybadges.com/badge?logo=macos)
 
 ### Virtualization
 ![Proxmox](https://a11ybadges.com/badge?logo=proxmox) ![VMware](https://a11ybadges.com/badge?logo=vmware) ![Citrix](https://a11ybadges.com/badge?logo=citrix)
@@ -12,8 +12,7 @@
 ![Apache](https://a11ybadges.com/badge?logo=apache) ![Apache Tomcat](https://a11ybadges.com/badge?logo=apachetomcat) ![NGINX](https://a11ybadges.com/badge?logo=nginx)
 
 ### Security 
-![Okta](https://a11ybadges.com/badge?logo=okta) ![OPNSense](https://a11ybadges.com/badge?logo=opnsense) ![pfSense](https://a11ybadges.com/badge?logo=pfsense) ![WireGuard](https://a11ybadges.com/badge?logo=wireguard) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare)
-
+![Okta](https://a11ybadges.com/badge?logo=okta) ![OPNSense](https://a11ybadges.com/badge?logo=opnsense) ![pfSense](https://a11ybadges.com/badge?logo=pfsense) ![WireGuard](https://a11ybadges.com/badge?logo=wireguard) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) 
 
 ### Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)
