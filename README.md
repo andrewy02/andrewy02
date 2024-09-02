@@ -8,7 +8,8 @@ https://ayinfra.notion.site/Shortcuts-2ff18b568c4645b9a027a91d3c9e6d68
 ![Ubuntu](https://a11ybadges.com/badge?logo=ubuntu) ![Debian](https://a11ybadges.com/badge?logo=debian) ![Red Hat](https://a11ybadges.com/badge?logo=redhat) ![Windows](https://a11ybadges.com/badge?logo=windows) ![macOS](https://a11ybadges.com/badge?logo=macos)
 
 ### Virtualization
-![Proxmox](https://a11ybadges.com/badge?logo=proxmox) ![VMware](https://a11ybadges.com/badge?logo=vmware) ![Citrix](https://a11ybadges.com/badge?logo=citrix)
+![Proxmox](https://a11ybadges.com/badge?logo=proxmox) ![VMware](https://a11ybadges.com/badge?logo=vmware) ![Citrix](https://a11ybadges.com/badge?logo=citrix) ![Linux Containers](https://a11ybadges.com/badge?logo=linuxcontainers)
+
 
 ### Web Server 
 ![Apache](https://a11ybadges.com/badge?logo=apache) ![Apache Tomcat](https://a11ybadges.com/badge?logo=apachetomcat) ![NGINX](https://a11ybadges.com/badge?logo=nginx)
