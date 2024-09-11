@@ -15,7 +15,7 @@ https://ayinfra.notion.site/Shortcuts-2ff18b568c4645b9a027a91d3c9e6d68
 
 ### Security 
 ![Okta](https://a11ybadges.com/badge?logo=okta) ![OPNSense](https://a11ybadges.com/badge?logo=opnsense) ![pfSense](https://a11ybadges.com/badge?logo=pfsense) ![WireGuard](https://a11ybadges.com/badge?logo=wireguard) ![OpenVPN](https://a11ybadges.com/badge?logo=openvpn)
-![OpenSSL](https://a11ybadges.com/badge?logo=openssl) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) 
+![OpenSSL](https://a11ybadges.com/badge?logo=openssl) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) ![Wazuh] ![Active Directory] 
 
 ### Development
 ![Python](https://a11ybadges.com/badge?logo=python) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://a11ybadges.com/badge?logo=windowsterminal)
