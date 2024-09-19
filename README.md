@@ -1,7 +1,6 @@
 # 안녕하세요. Infra, Security Engineer 직군을 꿈꾸고 있는 윤상원입니다.
-현재 HomeLAB에서 이상한 프로젝트를 구현하는 걸 좋아하는 사람입니다. ㅎㅎ
-삽질기가 궁금하시다면! 아래 노션을 참고해주세요!
-https://ayinfra.notion.site/Shortcuts-2ff18b568c4645b9a027a91d3c9e6d68
+전체 포토폴리오가 궁금하시다면, FortPolio Repo를 확인해주세요!
+https://github.com/2peak/FortPolio
 ## 기술 스택 
 
 ### Operating System
