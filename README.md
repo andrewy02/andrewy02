@@ -1,6 +1,10 @@
 # 안녕하세요. Infra, Security Engineer 직군을 꿈꾸고 있는 윤상원입니다.
 전체 포토폴리오가 궁금하시다면, FortPolio Repo를 확인해주세요!<br></br>
 https://github.com/2peak/FortPolio
+
+## Certification Badge
+![okta-certified-professional](https://github.com/user-attachments/assets/6ac7b91d-d2b3-4b49-b0ce-f137a1b56ea0)
+
 ## 기술 스택 
 
 ### Operating System
