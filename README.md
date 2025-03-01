@@ -3,7 +3,7 @@
 https://github.com/2peak/FortPolio
 
 ## Certification Badge
-![okta-certified-professional](https://github.com/user-attachments/assets/6ac7b91d-d2b3-4b49-b0ce-f137a1b56ea0)
+![okta-certified-professional (1)](https://github.com/user-attachments/assets/116cdda1-4d35-492c-a7c2-bf2231242265)
 
 ## 기술 스택 
 
