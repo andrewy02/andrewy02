@@ -1,4 +1,4 @@
-# 안녕하세요. Infra, Security Engineer 직군을 꿈꾸고 있는 윤상원입니다.
+![active-directory-1](https://github.com/user-attachments/assets/84e2c55c-8906-4d29-a57d-14d06ef87f5a)# 안녕하세요. Infra, Security Engineer 직군을 꿈꾸고 있는 윤상원입니다.
 전체 포토폴리오가 궁금하시다면, FortPolio Repo를 확인해주세요!<br></br>
 https://github.com/2peak/FortPolio
 
@@ -18,7 +18,9 @@ https://github.com/2peak/FortPolio
 
 ### Security 
 ![Okta](https://a11ybadges.com/badge?logo=okta) ![OPNSense](https://a11ybadges.com/badge?logo=opnsense) ![pfSense](https://a11ybadges.com/badge?logo=pfsense) ![WireGuard](https://a11ybadges.com/badge?logo=wireguard) ![OpenVPN](https://a11ybadges.com/badge?logo=openvpn)
-![OpenSSL](https://a11ybadges.com/badge?logo=openssl) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) ![Wazuh] ![Active Directory] 
+![OpenSSL](https://a11ybadges.com/badge?logo=openssl) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) ![Wazuh-Logo-2022](https://github.com/user-attachments/assets/c3525cf0-417d-436b-acc7-0b996a55671a) ![images](https://github.com/user-attachments/assets/fa8c1dd2-846c-43ff-8491-d955accb5993)
+
+
 
 ### Development
 ![Python](https://a11ybadges.com/badge?logo=python) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://a11ybadges.com/badge?logo=windowsterminal)
