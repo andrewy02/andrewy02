@@ -1,4 +1,4 @@
-![active-directory-1](https://github.com/user-attachments/assets/84e2c55c-8906-4d29-a57d-14d06ef87f5a)# 안녕하세요. Infra, Security Engineer 직군을 꿈꾸고 있는 윤상원입니다.
+# 안녕하세요. Infra, Security Engineer 직군을 꿈꾸고 있는 윤상원입니다.
 전체 포토폴리오가 궁금하시다면, FortPolio Repo를 확인해주세요!<br></br>
 https://github.com/2peak/FortPolio
 
