@@ -18,7 +18,7 @@ https://github.com/2peak/FortPolio
 
 ### Security 
 ![Okta](https://a11ybadges.com/badge?logo=okta) ![OPNSense](https://a11ybadges.com/badge?logo=opnsense) ![pfSense](https://a11ybadges.com/badge?logo=pfsense) ![WireGuard](https://a11ybadges.com/badge?logo=wireguard) ![OpenVPN](https://a11ybadges.com/badge?logo=openvpn)
-![OpenSSL](https://a11ybadges.com/badge?logo=openssl) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) ![Wazuh-Logo-2022](https://github.com/user-attachments/assets/c3525cf0-417d-436b-acc7-0b996a55671a) ![images](https://github.com/user-attachments/assets/fa8c1dd2-846c-43ff-8491-d955accb5993)
+![OpenSSL](https://a11ybadges.com/badge?logo=openssl) ![Wireshark](https://a11ybadges.com/badge?logo=wireshark) ![Cloudflare](https://a11ybadges.com/badge?logo=cloudflare) ![active-directory-1](https://github.com/user-attachments/assets/b722d9b9-43bc-4f0d-adf4-c72f482c82b9) ![Wazuh-Logo-2022](https://github.com/user-attachments/assets/4a013336-54a9-437f-bd34-397ec074ca31)
 
 
 
